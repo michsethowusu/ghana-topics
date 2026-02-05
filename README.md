@@ -33,6 +33,7 @@ Thanks to our contributors
 - [Jonathan Ato Markin](https://www.linkedin.com/in/atomarkin/)
 - [Josephus Bawah](https://www.linkedin.com/in/josephus-bawah/)
 - [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
+- [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/)
 
 ------
 
